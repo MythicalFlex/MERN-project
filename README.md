@@ -1,2 +1,3 @@
 # MERN-project
-Pro
+Project
+Tuhin Das
